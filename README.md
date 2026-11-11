@@ -1,5 +1,7 @@
 # Snowdesk
 
+![Snowdesk running on the Windows desktop](ReadMe_Assets/demo.png)
+
 Snowdesk draws falling snow over your Windows desktop. Flakes drift with
 changing wind, and you can keep clicking and typing in the apps underneath.
 
