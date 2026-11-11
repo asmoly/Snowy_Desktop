@@ -5,6 +5,8 @@
 Snowdesk draws falling snow over your Windows desktop. Flakes drift with
 changing wind, and you can keep clicking and typing in the apps underneath.
 
+On my computer I had 0.04% CPU usage and it used 34MB of RAM.
+
 Snowdesk is a Windows application that creates snow effects including snow falling from the sky, and snow accumulation on your windows and taskbar. This application works with minimal CPU and RAM usage, but performance may depend on your hardware.
 
 ## Install
