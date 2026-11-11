@@ -36,7 +36,4 @@ snowdesk background on/off
 snowdesk density 1-100
 snowdesk accumulation on/off
 ```
-`SnowAccumulation` grows a snow profile per exposed ledge and simulates the
-small bursts of snow shaken or brushed loose. Accumulation uses buffered frames
-to prevent the clear and redraw from appearing separately.
 
