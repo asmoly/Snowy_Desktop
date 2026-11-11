@@ -6,7 +6,7 @@ Snowdesk is a Windows application that creates snow effects including snow falli
 1. Clone or download this repo
 2. Open PowerShell in the repository with the .NET 10 SDK installed. The project
 can also build with the .NET 9 SDK if that is already installed.
-Run:
+3. Run:
 ```powershell
 .\Install-Snowdesk.ps1
 ```
